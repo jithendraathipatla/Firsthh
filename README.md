@@ -1,2 +1,0 @@
-# Firsthh
-Created with CodeSandbox
